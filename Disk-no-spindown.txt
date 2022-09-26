@@ -1,0 +1,5 @@
+#Ubuntu Server disable spindown of HDD
+
+hd-idle -i 0
+
+(Be sure to install hd-idle)
