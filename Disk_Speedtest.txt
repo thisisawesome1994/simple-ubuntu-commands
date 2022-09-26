@@ -1,0 +1,5 @@
+#Ubuntu Server disk speedtest
+
+hdparm -Tt /dev/sda
+
+(Change /dev/sda to your drive or raid array)
